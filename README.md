@@ -16,11 +16,11 @@ In this challenge, we were asked to complete the analysis of what sorts of peopl
 
 ## A brief walkthrough through what I did:
 
-• Visualized plots for each and every feature with the response variable to gain in-depth understanding of how they fluctuate with respect to each other
-• In-depth walkthrough of each and every feature 
-• Data Wrangling
-• New features added to gain more insights from the dataset
-• Maxiziming the accuracy through various parameter tuning in the Random Forest model
-• Leveraged parallelization for training the Random Forest model with 1000 trees
+- Visualized plots for each and every feature with the response variable to gain in-depth understanding of how they fluctuate with respect to each other
+- In-depth walkthrough of each and every feature 
+- Data Wrangling
+- New features added to gain more insights from the dataset
+- Maxiziming the accuracy through various parameter tuning in the Random Forest model
+- Leveraged parallelization for training the Random Forest model with 1000 trees
 
 Overall accuracy of around 81.57% is achieved.
