@@ -20,7 +20,7 @@ In this challenge, we were asked to complete the analysis of what sorts of peopl
 - In-depth walkthrough of each and every feature 
 - Data Wrangling
 - New features added to gain more insights from the dataset
-- Maxiziming the accuracy through various parameter tuning in the Random Forest model
+- Maxiziming the accuracy through various parameter tuning in the *Random Forest* model
 - Leveraged parallelization for training the Random Forest model with 1000 trees
 
 Overall accuracy of around 81.57% is achieved.
